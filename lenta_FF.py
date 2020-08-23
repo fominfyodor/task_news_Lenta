@@ -1,3 +1,6 @@
+# Парсер новостей с Ленты
+
+
 import requests
 import pandas as pd
 
